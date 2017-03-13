@@ -1,0 +1,34 @@
+PS D:\Jimmy.Lee\Codes\VSCode> git clone https://github.com/JimmyLonely/Polly
+Cloning into 'Polly'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+PS D:\Jimmy.Lee\Codes\VSCode> cd \\192.168.1.19\Development\Nexad\5Temp\polly
+PS Microsoft.PowerShell.Core\FileSystem::\\192.168.1.19\Development\Nexad\5Temp\polly> ls . *
+
+
+    目录: \\192.168.1.19\Development\Nexad\5Temp\polly
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----         2016/11/8     17:27            en_sql_server_2014_enterprise_edition_x64_dvd_3932700
+d----         2017/3/13      9:26            notepad++
+d----        2016/11/21     10:36            ServiceGateway
+d----         2017/3/13      9:27            VSCode
+-a---         2016/6/27     13:48    1265496 fiddler4setup.exe
+-a---          2016/7/7     18:27   31502824 Git-2.9.0-64-bit.exe
+-a---         2016/12/7      9:51     568832 Localization Resource File with oficial Spanish Translation 9.27.2016 .xls
+-a---         2016/1/12     14:59   10375168 node-v5.4.0-x64.msi
+-a---        2010/11/26     14:10    4527640 npp.5.8.5.Installer.exe
+-a---         2016/11/2     16:19      19060 Resource question file 10.24.ods
+-a---        2016/11/11     14:41    4012462 ServiceGateway.zip
+-a---          2017/3/1     13:49   44041688 SkypeSetupFull_7.32.99.104.exe
+-a---         2017/1/16      8:27   34001688 VSCodeSetup-1.8.1.exe
+-a---          2015/6/2     17:59    3212078 WinMerge-2.12.4-Setup.exe
+
+
+PS Microsoft.PowerShell.Core\FileSystem::\\192.168.1.19\Development\Nexad\5Temp\polly>
+
+
