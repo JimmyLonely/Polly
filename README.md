@@ -1,2 +1,2 @@
 # Polly
-The repository is for my friend polly
+The repository is for Polly
